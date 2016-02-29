@@ -1,4 +1,4 @@
-FROM cahva/nodepm2:v2
+FROM cahva/nodepm2:v3
 RUN apk add --no-cache ffmpeg
 RUN apk add --no-cache ffmpeg-libs
 RUN apk add --no-cache ghostscript
