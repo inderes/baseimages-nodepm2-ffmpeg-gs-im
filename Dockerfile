@@ -1,4 +1,4 @@
-FROM vsync/nodepm2:v3
+FROM vsync/nodepm2:v4
 RUN apk add --no-cache ffmpeg
 RUN apk add --no-cache ffmpeg-libs
 RUN apk add --no-cache ghostscript
