@@ -4,10 +4,5 @@ Baseimage derived from cahva/baseimages-nodepm2 with ffmpeg, ghostscript and ima
 
 Changes:
 
-### 2016-05-30
-- use vsync/nodepm2:v4
-
-
-- use different baseimage which uses alpine:edge as baseimage
-
-
+~~- use different baseimage which uses alpine:edge as baseimage~~
+- use keymetrics/pm2 as baseimage
