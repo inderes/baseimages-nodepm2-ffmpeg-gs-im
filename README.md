@@ -4,6 +4,10 @@ Baseimage derived from cahva/baseimages-nodepm2 with ffmpeg, ghostscript and ima
 
 Changes:
 
+## [2024-11-15]
+- Change to node-22 as base image
+- build and add mutool binary to image
+
 ## [2023-04-06]
 
 ### Changes
