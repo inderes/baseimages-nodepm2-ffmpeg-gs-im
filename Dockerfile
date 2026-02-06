@@ -1,4 +1,4 @@
-ARG NODE_VERSION=22
+ARG NODE_VERSION=24
 
 # For building the mutool binary
 FROM node:${NODE_VERSION}-alpine AS mupdf-builder
